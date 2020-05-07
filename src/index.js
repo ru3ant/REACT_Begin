@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import "./test";
 
 const divRoot = document.getElementById("root");
 
